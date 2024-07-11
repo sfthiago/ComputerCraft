@@ -31,7 +31,7 @@ local recipes = {
       ["gtceu:kanthal_coil_block"] = 16,
       ["gtceu:clean_machine_casing"] = 18,
     },
-    recipe2 = 
+    recipe2 = {}
 }
 
 
